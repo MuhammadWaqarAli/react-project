@@ -1,0 +1,29 @@
+.jawad-footer{
+	background-color: #566573;
+	padding: 15px;
+
+}
+.jawad-footer div.footer-description > p {
+	color: white;
+}
+.footer-logo{
+	height: 50px !important;
+	border-radius: 50%;
+}
+
+.jawad-footer div.quick-links {
+	padding-top: 25px;
+}
+
+.jawad-footer div.quick-links > h4 {
+	color: white;
+	margin-left: 30px;
+}
+.jawad-footer ul.quick-links-list > li >  a {
+	color: white;
+	text-decoration: none;
+}
+
+.jawad-footer ul.quick-links-list{
+	list-style: none;
+}
